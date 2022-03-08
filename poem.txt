@@ -6,5 +6,6 @@ green
 purple
 pink
 yellow
+indigo
 
 These are the colors of the rainbow
